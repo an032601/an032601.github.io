@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on </title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 19 Dec 2020 09:11:12 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>linux command</title>
+      <link>http://localhost:1313/tags/linux-command/</link>
+      <pubDate>Sat, 19 Dec 2020 09:11:12 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/linux-command/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>openwrt</title>
+      <link>http://localhost:1313/tags/openwrt/</link>
+      <pubDate>Sat, 19 Dec 2020 08:19:53 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/openwrt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

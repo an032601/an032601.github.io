@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linux command on </title>
+    <link>http://localhost:1313/tags/linux-command/</link>
+    <description>Recent content in linux command on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 19 Dec 2020 09:11:12 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/linux-command/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux Cut 命令</title>
+      <link>http://localhost:1313/post/linux-command-cut/</link>
+      <pubDate>Sat, 19 Dec 2020 09:11:12 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/linux-command-cut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux Xargs 命令使用</title>
+      <link>http://localhost:1313/post/linux-xargs-usage/</link>
+      <pubDate>Sat, 19 Dec 2020 08:33:31 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/linux-xargs-usage/</guid>
+      <description>导读 xargs 是给命令传递参数的一个过滤器，可以将管道或标准输入的数据转换成参数，默认的命令是 echo，这意味着通过管道传递给 xargs 的输入将会包含换行，</description>
+    </item>
+    
+  </channel>
+</rss>
