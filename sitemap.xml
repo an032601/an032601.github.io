@@ -9,7 +9,35 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2020-12-24T21:20:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/linux/</loc>
+    <lastmod>2020-12-24T21:20:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/post/</loc>
+    <lastmod>2020-12-24T21:20:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2020-12-24T21:20:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/tmux/</loc>
     <lastmod>2020-12-24T21:20:57+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -23,20 +51,6 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2020-12-19T09:11:12+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/categories/linux/</loc>
-    <lastmod>2020-12-19T09:11:12+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/tags/linux-command/</loc>
     <lastmod>2020-12-19T09:11:12+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -45,13 +59,6 @@
   
   <url>
     <loc>http://localhost:1313/post/linux-command-cut/</loc>
-    <lastmod>2020-12-19T09:11:12+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2020-12-19T09:11:12+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
