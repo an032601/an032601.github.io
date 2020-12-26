@@ -1,85 +1,85 @@
-<?xml-stylesheet type="text/xsl" href="http://localhost:1313/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://coolqu.info/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://coolqu.info/</loc>
     <lastmod>2020-12-24T21:20:57+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://coolqu.info/categories/</loc>
     <lastmod>2020-12-24T21:20:57+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/linux/</loc>
+    <loc>https://coolqu.info/categories/linux/</loc>
     <lastmod>2020-12-24T21:20:57+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://coolqu.info/post/</loc>
     <lastmod>2020-12-24T21:20:57+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://coolqu.info/tags/</loc>
     <lastmod>2020-12-24T21:20:57+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/tmux/</loc>
+    <loc>https://coolqu.info/tags/tmux/</loc>
     <lastmod>2020-12-24T21:20:57+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/tmux/</loc>
+    <loc>https://coolqu.info/post/tmux/</loc>
     <lastmod>2020-12-24T21:20:57+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/linux-command/</loc>
+    <loc>https://coolqu.info/tags/linux-command/</loc>
     <lastmod>2020-12-19T09:11:12+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/linux-command-cut/</loc>
+    <loc>https://coolqu.info/post/linux-command-cut/</loc>
     <lastmod>2020-12-19T09:11:12+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/linux-xargs-usage/</loc>
+    <loc>https://coolqu.info/post/linux-xargs-usage/</loc>
     <lastmod>2020-12-19T08:33:31+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/openwrt-opkg-updates-more/</loc>
+    <loc>https://coolqu.info/post/openwrt-opkg-updates-more/</loc>
     <lastmod>2020-12-19T08:19:53+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/openwrt/</loc>
+    <loc>https://coolqu.info/tags/openwrt/</loc>
     <lastmod>2020-12-19T08:19:53+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tmux on </title>
-    <link>http://localhost:1313/tags/tmux/</link>
+    <link>https://coolqu.info/tags/tmux/</link>
     <description>Recent content in tmux on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 24 Dec 2020 21:20:57 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/tmux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Dec 2020 21:20:57 +0800</lastBuildDate><atom:link href="https://coolqu.info/tags/tmux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tmux 使用教程</title>
-      <link>http://localhost:1313/post/tmux/</link>
+      <link>https://coolqu.info/post/tmux/</link>
       <pubDate>Thu, 24 Dec 2020 21:20:57 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/tmux/</guid>
+      <guid>https://coolqu.info/post/tmux/</guid>
       <description></description>
     </item>
     

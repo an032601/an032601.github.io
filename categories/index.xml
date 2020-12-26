@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on </title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://coolqu.info/categories/</link>
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 24 Dec 2020 21:20:57 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Dec 2020 21:20:57 +0800</lastBuildDate><atom:link href="https://coolqu.info/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux</title>
-      <link>http://localhost:1313/categories/linux/</link>
+      <link>https://coolqu.info/categories/linux/</link>
       <pubDate>Thu, 24 Dec 2020 21:20:57 +0800</pubDate>
       
-      <guid>http://localhost:1313/categories/linux/</guid>
+      <guid>https://coolqu.info/categories/linux/</guid>
       <description></description>
     </item>
     
