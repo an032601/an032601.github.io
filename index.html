@@ -188,14 +188,14 @@
       <div class="post-category">
           <a href="/categories/linux/"> Linux </a>
           </div>
-        <span class="more-meta"> 约 12 字 </span>
+        <span class="more-meta"> 约 15 字 </span>
         <span class="more-meta"> 预计阅读 1 分钟 </span>
     </div>
   </header>
   
   <div class="post-content">
     <div class="post-summary">
-      opkg list-upgradable | cut -d &quot; &quot; -f1 | xargs opkg upgrade
+      opkg update &amp;&amp; opkg list-upgradable | cut -d &quot; &quot; -f1 | xargs opkg upgrade
     </div>
     <div class="read-more">
       <a href="/post/openwrt-opkg-updates-more/" class="read-more-link">阅读更多</a>
@@ -223,7 +223,6 @@
       <a href="http://localhost:1313" class="iconfont icon-douban" title="douban"></a>
   <a href="https://coolqu.info/index.xml" type="application/rss+xml" class="iconfont icon-rss" title="rss"></a>
 </div>
-
 <div class="copyright">
   <span class="power-by">
     由 <a class="hexo-link" href="https://gohugo.io">Hugo</a> 强力驱动
@@ -234,7 +233,6 @@
     <a class="theme-link" href="https://github.com/olOwOlo/hugo-theme-even">Even</a>
   </span>
   
-
   <span class="copyright-year">
     &copy; 
     2007 - 

@@ -13,7 +13,7 @@
       <pubDate>Sat, 19 Dec 2020 08:19:53 +0800</pubDate>
       
       <guid>https://coolqu.info/post/openwrt-opkg-updates-more/</guid>
-      <description>opkg list-upgradable | cut -d &amp;quot; &amp;quot; -f1 | xargs opkg upgrade</description>
+      <description>opkg update &amp;amp;&amp;amp; opkg list-upgradable | cut -d &amp;quot; &amp;quot; -f1 | xargs opkg upgrade</description>
     </item>
     
   </channel>
